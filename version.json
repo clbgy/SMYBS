@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "2.0",
+  "versionCode": 25,
+  "versionName": "2.5",
   "forceUpdate": true,
-  "updateMessage": "标题喵",
+  "updateMessage": "这次是真有更新了",
   "downloadUrl": "https://baike.baidu.com/item/%E7%8C%AB/22261",
-  "changelog": "内容喵"
+  "changelog": "修复了一直显示有新版本的问题，不要点上面那个立即更新"
 }
