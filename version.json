@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
+  "versionCode": 1,
   "versionName": "2.0",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "updateMessage": "标题喵",
   "downloadUrl": "https://baike.baidu.com/item/%E7%8C%AB/22261",
   "changelog": "内容喵"
