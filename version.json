@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "3.0",
+  "versionCode": 32,
+  "versionName": "3.2",
   "forceUpdate": true,
-  "updateMessage": "这次是真有更新了",
-  "downloadUrl": "https://baike.baidu.com/item/%E7%8C%AB/22261",
-  "changelog": "现在的更新按钮没用，不要点"
+  "updateMessage": "老大，软件有新版本了",
+  "downloadUrl": "https://raw.githubusercontent.com/clbgy/smybs/app/我去不早说解密端_3.1.apk.wqbzs",
+  "changelog": "现在可以点击立即更新了"
 }
