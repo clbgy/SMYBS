@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "3.2",
+  "versionCode": 33,
+  "versionName": "3.3",
   "forceUpdate": true,
   "updateMessage": "老大，软件有新版本了",
   "downloadUrl": "https://raw.githubusercontent.com/clbgy/smybs/app/我去不早说解密端_3.1.apk.wqbzs",
-  "changelog": "现在可以点击立即更新了"
+  "changelog": "但是，先不要急，我只是在测试"
 }
