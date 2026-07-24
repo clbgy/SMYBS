@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
-  "versionName": "3.5",
-  "revision": 5,
+  "versionCode": 36,
+  "versionName": "3.6",
+  "revision": 6,
   "forceUpdate": true,
   "updateMessage": "主人，软件有新版本了",
-  "downloadUrl": "https://raw.githubusercontent.com/clbgy/smybs/app/我去不早说解密端_3.5.apk.wqbzs",
+  "downloadUrl": "https://raw.githubusercontent.com/clbgy/smybs/app/我去不早说解密端_3.6.apk.wqbzs",
   "changelog": "一定要点击立即更新哦"
 }
